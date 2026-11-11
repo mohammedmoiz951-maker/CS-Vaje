@@ -1,6 +1,6 @@
 # LAB 03: Testing SSH Security with Nmap and Hydra
 
-**Student Name:** Mohammed Moiz Uddin **Student ID:** 35260388 **Course:** MSc Cybersecurity
+**Student Name:** Mohammed Moiz Uddin **ID:** 35260388 **Course:** MSc Cybersecurity
 
 ## 1. Objective
 
